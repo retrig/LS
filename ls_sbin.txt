@@ -1,0 +1,245 @@
+total 18000
+drwxr-xr-x  2 root root     12288 Jun 25 17:02 .
+drwxr-xr-x 23 root root      4096 Jun 22 18:51 ..
+-rwxr-xr-x  1 root root       112 Mar  1 22:25 acpi_available
+-rwxr-xr-x  1 root root     56552 Mar 15 22:47 agetty
+-rwxr-xr-x  1 root root      5576 Jul 31  2015 alsa
+-rwxr-xr-x  1 root root        81 Mar 12 01:00 apm_available
+-rwxr-xr-x  1 root root   1472232 Apr 17 20:15 apparmor_parser
+-rwxr-xr-x  1 root root     26632 Mar 24 19:13 badblocks
+-rwxr-xr-x  1 root root     14840 Apr 12 08:35 blkdeactivate
+-rwxr-xr-x  1 root root     26704 Mar 15 22:47 blkdiscard
+-rwxr-xr-x  1 root root     88176 Mar 15 22:47 blkid
+-rwxr-xr-x  1 root root     38984 Mar 15 22:47 blockdev
+-rwxr-xr-x  1 root root     88224 Feb 26 15:21 bridge
+lrwxrwxrwx  1 root root        11 Apr 17 10:46 brltty -> /bin/brltty
+-rwxr-xr-x  1 root root      1416 Mar 15  2017 brltty-setup
+-rwxr-xr-x  1 root root     18424 Nov 16  2017 capsh
+-rwxr-xr-x  1 root root     96704 Mar 15 22:47 cfdisk
+-rwxr-xr-x  1 root root    186544 Sep 20  2017 cgdisk
+-rwxr-xr-x  1 root root     22600 Mar 15 22:47 chcpu
+-rwxr-xr-x  1 root root     10232 Feb  5 16:48 crda
+-rwxr-xr-x  1 root root      1135 Apr  6 17:23 cryptdisks_start
+-rwxr-xr-x  1 root root      1192 Apr  6 17:23 cryptdisks_stop
+-rwxr-xr-x  1 root root     88296 Apr  6 17:23 cryptsetup
+-rwxr-xr-x  1 root root     82904 Apr  6 17:23 cryptsetup-reencrypt
+-rwxr-xr-x  1 root root     18504 Mar 15 22:47 ctrlaltdel
+-rwxr-xr-x  1 root root    218592 Mar 24 19:13 debugfs
+lrwxrwxrwx  1 root root         9 Jan 28 15:34 depmod -> /bin/kmod
+-rwxr-xr-x  1 root root     80040 Feb 26 15:21 devlink
+-rwxr-xr-x  1 root root    500144 Apr 16 10:40 dhclient
+-rwxr-xr-x  1 root root     15617 Apr 16 10:40 dhclient-script
+-rwxr-xr-x  1 root root     47184 Apr 12 08:35 dmeventd
+-rwxr-xr-x  1 root root    162616 Apr 12 08:35 dmsetup
+lrwxrwxrwx  1 root root         7 Apr 12 08:35 dmstats -> dmsetup
+lrwxrwxrwx  1 root root         8 Jan 24  2017 dosfsck -> fsck.fat
+lrwxrwxrwx  1 root root         8 Jan 24  2017 dosfslabel -> fatlabel
+-rwxr-xr-x  1 root root     26704 Mar 24 19:13 dumpe2fs
+-rwxr-xr-x  1 root root    314080 Mar 24 19:13 e2fsck
+-rwxr-xr-x  1 root root     34896 Mar 24 19:13 e2image
+lrwxrwxrwx  1 root root         7 Mar 24 19:13 e2label -> tune2fs
+-rwxr-xr-x  1 root root     18504 Mar 24 19:13 e2undo
+-rwxr-xr-x  1 root root      6136 Apr 18  2017 ebtables
+-rwxr-xr-x  1 root root     10232 Apr 18  2017 ebtables-restore
+-rwxr-xr-x  1 root root      1664 Apr 18  2017 ebtables-save
+-rwxr-xr-x  1 root root    347032 Feb 23 11:58 ethtool
+-rwxr-xr-x  1 root root     55376 Jan 24  2017 fatlabel
+-rwxr-xr-x  1 root root    125056 Mar 15 22:47 fdisk
+-rwxr-xr-x  1 root root     10312 Mar 15 22:47 findfs
+-rwxr-xr-x  1 root root     63664 Sep 20  2017 fixparts
+-rwxr-xr-x  1 root root     24068 Apr 12 08:35 fsadm
+-rwxr-xr-x  1 root root     47232 Mar 15 22:47 fsck
+-rwxr-xr-x  1 root root     34928 Mar 15 22:47 fsck.cramfs
+lrwxrwxrwx  1 root root         6 Mar 24 19:13 fsck.ext2 -> e2fsck
+lrwxrwxrwx  1 root root         6 Mar 24 19:13 fsck.ext3 -> e2fsck
+lrwxrwxrwx  1 root root         6 Mar 24 19:13 fsck.ext4 -> e2fsck
+-rwxr-xr-x  1 root root     59472 Jan 24  2017 fsck.fat
+-rwxr-xr-x  1 root root     92264 Mar 15 22:47 fsck.minix
+lrwxrwxrwx  1 root root         8 Jan 24  2017 fsck.msdos -> fsck.fat
+lrwxrwxrwx  1 root root         8 Jan 24  2017 fsck.vfat -> fsck.fat
+-rwxr-xr-x  1 root root       433 Apr 18 06:44 fsck.xfs
+-rwxr-xr-x  1 root root     10312 Mar 15 22:47 fsfreeze
+-rwxr-xr-x  1 root root      6136 Nov  1  2017 fstab-decode
+-rwxr-xr-x  1 root root     43088 Mar 15 22:47 fstrim
+-rwxr-xr-x  1 root root    194736 Sep 20  2017 gdisk
+-rwxr-xr-x  1 root root     10232 Nov 16  2017 getcap
+-rwxr-xr-x  1 root root     10232 Nov 16  2017 getpcaps
+lrwxrwxrwx  1 root root         6 Mar 15 22:47 getty -> agetty
+lrwxrwxrwx  1 root root        14 Apr 20 16:55 halt -> /bin/systemctl
+-rwxr-xr-x  1 root root    131256 Feb 22 13:51 hdparm
+-rwxr-xr-x  1 root root     59584 Mar 15 22:47 hwclock
+-rwxr-xr-x  1 root root     78960 Jan 10  2017 ifconfig
+lrwxrwxrwx  1 root root         4 Apr 27 12:00 ifdown -> ifup
+lrwxrwxrwx  1 root root         4 Apr 27 12:00 ifquery -> ifup
+-rwxr-xr-x  1 root root     95528 Apr 27 12:00 ifup
+lrwxrwxrwx  1 root root        20 Apr 20 16:55 init -> /lib/systemd/systemd
+lrwxrwxrwx  1 root root         9 Jan 28 15:34 insmod -> /bin/kmod
+-rwxr-xr-x  1 root root      2638 Dec 30 18:15 installkernel
+-rwxr-xr-x  1 root root     40616 Apr  6 17:23 integritysetup
+lrwxrwxrwx  1 root root         7 Feb 26 15:21 ip -> /bin/ip
+lrwxrwxrwx  1 root root        13 Nov 12  2017 ip6tables -> xtables-multi
+lrwxrwxrwx  1 root root        13 Nov 12  2017 ip6tables-restore -> xtables-multi
+lrwxrwxrwx  1 root root        13 Nov 12  2017 ip6tables-save -> xtables-multi
+-rwxr-xr-x  1 root root     18424 Jan 10  2017 ipmaddr
+lrwxrwxrwx  1 root root        13 Nov 12  2017 iptables -> xtables-multi
+lrwxrwxrwx  1 root root        13 Nov 12  2017 iptables-restore -> xtables-multi
+lrwxrwxrwx  1 root root        13 Nov 12  2017 iptables-save -> xtables-multi
+-rwxr-xr-x  1 root root     22520 Jan 10  2017 iptunnel
+-rwxr-xr-x  1 root root    391120 Feb 21 18:19 iscsiadm
+-rwxr-xr-x  1 root root    407704 Feb 21 18:19 iscsid
+-rwxr-xr-x  1 root root      5285 Sep 29  2016 iscsi_discovery
+-rwxr-xr-x  1 root root     10232 Feb 21 18:19 iscsi-iname
+-rwxr-xr-x  1 root root    362632 Feb 21 18:19 iscsistart
+-rwxr-xr-x  1 root root     22608 Mar 15 22:47 isosize
+-rwxr-xr-x  1 root root    204192 Jan 16 10:18 iw
+-rwxr-xr-x  1 root root     30792 Apr 28  2017 iwconfig
+-rwxr-xr-x  1 root root     18504 Apr 28  2017 iwevent
+-rwxr-xr-x  1 root root     14408 Apr 28  2017 iwgetid
+-rwxr-xr-x  1 root root     39136 Apr 28  2017 iwlist
+-rwxr-xr-x  1 root root     14408 Apr 28  2017 iwpriv
+-rwxr-xr-x  1 root root     14328 Apr 28  2017 iwspy
+-rwxr-xr-x  1 root root     10232 Jan 22 13:49 kbdrate
+-rwxr-xr-x  1 root root     22608 Nov  1  2017 killall5
+-rwxr-xr-x  1 root root       387 Apr 16 20:14 ldconfig
+-rwxr-xr-x  1 root root   1025352 Apr 16 20:14 ldconfig.real
+-rwxr-xr-x  1 root root     10240 Mar 24 19:13 logsave
+-rwxr-xr-x  1 root root     84160 Mar 15 22:47 losetup
+lrwxrwxrwx  1 root root         9 Jan 28 15:34 lsmod -> /bin/kmod
+lrwxrwxrwx  1 root root         9 Apr 21  2017 lspcmcia -> pccardctl
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 lvchange -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 lvconvert -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 lvcreate -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 lvdisplay -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 lvextend -> lvm
+-rwxr-xr-x  1 root root   2535424 Apr 12 08:35 lvm
+-rwxr-xr-x  1 root root     12847 Apr 12 08:35 lvmconf
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 lvmconfig -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 lvmdiskscan -> lvm
+-rwxr-xr-x  1 root root     10312 Apr 12 08:35 lvmdump
+-rwxr-xr-x  1 root root     84104 Apr 12 08:35 lvmetad
+-rwxr-xr-x  1 root root     72136 Apr 12 08:35 lvmpolld
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 lvmsadc -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 lvmsar -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 lvreduce -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 lvremove -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 lvrename -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 lvresize -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 lvs -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 lvscan -> lvm
+-rwxr-xr-x  1 root root    574040 Mar  7 07:43 mdadm
+-rwxr-xr-x  1 root root    315864 Mar  7 07:43 mdmon
+-rwxr-xr-x  1 root root     18904 Jan 10  2017 mii-tool
+lrwxrwxrwx  1 root root         8 Jan 24  2017 mkdosfs -> mkfs.fat
+-rwxr-xr-x  1 root root    129344 Mar 24 19:13 mke2fs
+-rwxr-xr-x  1 root root     10312 Mar 15 22:47 mkfs
+-rwxr-xr-x  1 root root     30800 Mar 15 22:47 mkfs.bfs
+-rwxr-xr-x  1 root root     34824 Mar 15 22:47 mkfs.cramfs
+lrwxrwxrwx  1 root root         6 Mar 24 19:13 mkfs.ext2 -> mke2fs
+lrwxrwxrwx  1 root root         6 Mar 24 19:13 mkfs.ext3 -> mke2fs
+lrwxrwxrwx  1 root root         6 Mar 24 19:13 mkfs.ext4 -> mke2fs
+-rwxr-xr-x  1 root root     35328 Jan 24  2017 mkfs.fat
+-rwxr-xr-x  1 root root     79960 Mar 15 22:47 mkfs.minix
+lrwxrwxrwx  1 root root         8 Jan 24  2017 mkfs.msdos -> mkfs.fat
+lrwxrwxrwx  1 root root         6 Nov 30  2017 mkfs.ntfs -> mkntfs
+lrwxrwxrwx  1 root root         8 Jan 24  2017 mkfs.vfat -> mkfs.fat
+-rwxr-xr-x  1 root root    433688 Apr 18 06:44 mkfs.xfs
+-rwxr-xr-x  1 root root     18448 Apr  5 12:27 mkhomedir_helper
+-rwxr-xr-x  1 root root     79984 Nov 30  2017 mkntfs
+-rwxr-xr-x  1 root root     79952 Mar 15 22:47 mkswap
+lrwxrwxrwx  1 root root         9 Jan 28 15:34 modinfo -> /bin/kmod
+lrwxrwxrwx  1 root root         9 Jan 28 15:34 modprobe -> /bin/kmod
+-rwxr-xr-x  1 root root     10232 Aug 11  2016 mount.fuse
+lrwxrwxrwx  1 root root        15 Nov 30  2017 mount.lowntfs-3g -> /bin/lowntfs-3g
+lrwxrwxrwx  1 root root        13 Nov 30  2017 mount.ntfs -> mount.ntfs-3g
+lrwxrwxrwx  1 root root        12 Nov 30  2017 mount.ntfs-3g -> /bin/ntfs-3g
+-rwxr-xr-x  1 root root     18968 Apr 26 08:49 mount.vboxsf
+-rwxr-xr-x  1 root root     47272 Apr 19 09:23 mount.vmhgfs
+-rwxr-xr-x  1 root root     14480 Jan 10  2017 nameif
+-rwxr-xr-x  1 root root     55416 Nov 30  2017 ntfsclone
+-rwxr-xr-x  1 root root     34920 Nov 30  2017 ntfscp
+-rwxr-xr-x  1 root root     26728 Nov 30  2017 ntfslabel
+-rwxr-xr-x  1 root root     71800 Nov 30  2017 ntfsresize
+-rwxr-xr-x  1 root root     51304 Nov 30  2017 ntfsundelete
+-rwxr-xr-x  1 root root      2215 Mar 12 00:51 on_ac_power
+-rwxr-sr-x  1 root shadow   34816 Apr  5 12:27 pam_extrausers_chkpwd
+-rwxr-xr-x  1 root root     34816 Apr  5 12:27 pam_extrausers_update
+-rwxr-xr-x  1 root root     10248 Apr  5 12:27 pam_tally
+-rwxr-xr-x  1 root root     14344 Apr  5 12:27 pam_tally2
+-rwxr-xr-x  1 root root     79968 Jan 17 01:43 parted
+-rwxr-xr-x  1 root root     10312 Jan 17 01:43 partprobe
+-rwxr-xr-x  1 root root     18648 Apr 21  2017 pccardctl
+-rwxr-xr-x  1 root root     10312 Mar 15 22:47 pivot_root
+-rwxr-xr-x  1 root root     10240 Jan 10  2017 plipconfig
+-rwxr-xr-x  1 root root     88320 Apr 13 00:07 plymouthd
+lrwxrwxrwx  1 root root        14 Apr 20 16:55 poweroff -> /bin/systemctl
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 pvchange -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 pvck -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 pvcreate -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 pvdisplay -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 pvmove -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 pvremove -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 pvresize -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 pvs -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 pvscan -> lvm
+-rwxr-xr-x  1 root root     33232 Jan 10  2017 rarp
+-rwxr-xr-x  1 root root     14408 Mar 15 22:47 raw
+lrwxrwxrwx  1 root root        14 Apr 20 16:55 reboot -> /bin/systemctl
+-rwxr-xr-x  1 root root     10232 Feb  5 16:48 regdbdump
+-rwxr-xr-x  1 root root     59464 Mar 24 19:13 resize2fs
+lrwxrwxrwx  1 root root         9 Jan 28 15:34 rmmod -> /bin/kmod
+-rwxr-xr-x  1 root root     65848 Jan 10  2017 route
+-rwxr-xr-x  1 root root     41096 Feb 26 15:21 rtacct
+-rwxr-xr-x  1 root root     51200 Feb 26 15:21 rtmon
+lrwxrwxrwx  1 root root        14 Apr 20 16:55 runlevel -> /bin/systemctl
+-rwxr-xr-x  1 root root     43080 Mar 15 22:47 runuser
+-rwxr-xr-x  1 root root     10232 Nov 16  2017 setcap
+-rwxr-xr-x  1 root root     14472 Jan 22 13:49 setvtrgb
+-rwxr-xr-x  1 root root    108624 Mar 15 22:47 sfdisk
+-rwxr-xr-x  1 root root    178352 Sep 20  2017 sgdisk
+-rwxr-xr-x  1 root root       885 Jan 25 15:09 shadowconfig
+lrwxrwxrwx  1 root root        14 Apr 20 16:55 shutdown -> /bin/systemctl
+-rwxr-xr-x  1 root root     41424 Jan 10  2017 slattach
+-rwxr-xr-x  1 root root     35944 Apr 16 02:25 start-stop-daemon
+-rwxr-xr-x  1 root root     47184 Mar 15 22:47 sulogin
+-rwxr-xr-x  1 root root     14408 Mar 15 22:47 swaplabel
+-rwxr-xr-x  1 root root     18504 Mar 15 22:47 swapoff
+-rwxr-xr-x  1 root root     47184 Mar 15 22:47 swapon
+-rwxr-xr-x  1 root root     14408 Mar 15 22:47 switch_root
+-rwxr-xr-x  1 root root     22600 May 14 12:01 sysctl
+-rwxr-xr-x  1 root root    460584 Feb 26 15:21 tc
+lrwxrwxrwx  1 root root        14 Apr 20 16:55 telinit -> /bin/systemctl
+-rwxr-xr-x  1 root root     55288 Feb 26 15:21 tipc
+-rwxr-xr-x  1 root root    104704 Mar 24 19:13 tune2fs
+-rwxr-xr-x  1 root root       517 Mar 21 17:33 u-d-c-print-pci-ids
+lrwxrwxrwx  1 root root        12 Apr 20 16:55 udevadm -> /bin/udevadm
+-rwxr-xr-x  1 root root     10232 Apr 19 12:48 umount.udisks2
+-rwxr-sr-x  1 root shadow   34816 Apr  5 12:27 unix_chkpwd
+-rwxr-xr-x  1 root root     34816 Apr  5 12:27 unix_update
+-rwxr-xr-x  1 root root     35168 Aug 15  2017 ureadahead
+-rwxr-xr-x  1 root root     36296 Apr  6 17:23 veritysetup
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 vgcfgbackup -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 vgcfgrestore -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 vgchange -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 vgck -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 vgconvert -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 vgcreate -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 vgdisplay -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 vgexport -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 vgextend -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 vgimport -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 vgimportclone -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 vgmerge -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 vgmknodes -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 vgreduce -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 vgremove -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 vgrename -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 vgs -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 vgscan -> lvm
+lrwxrwxrwx  1 root root         3 Apr 12 08:35 vgsplit -> lvm
+-rwxr-xr-x  1 root root     38992 Mar 15 22:47 wipefs
+-rwxr-xr-x  1 root root      1735 Dec 28 15:44 wpa_action
+-rwxr-xr-x  1 root root    139000 Feb  5 16:55 wpa_cli
+-rwxr-xr-x  1 root root   2256912 Feb  5 16:55 wpa_supplicant
+-rwxr-xr-x  1 root root    646304 Apr 18 06:44 xfs_repair
+-rwxr-xr-x  1 root root     94968 Nov 12  2017 xtables-multi
+-rwxr-xr-x  1 root root     92352 Mar 15 22:47 zramctl
