@@ -1,0 +1,4 @@
+total 8
+drwxr-xr-x  2 retrig retrig 4096 Jun 27 18:44 .
+drwxr-xr-x 17 retrig retrig 4096 Jun 27 18:43 ..
+-rw-r--r--  1 retrig retrig    0 Jun 27 18:44 ls_etc.txt

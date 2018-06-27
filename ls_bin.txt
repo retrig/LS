@@ -1,0 +1,177 @@
+total 16260
+drwxr-xr-x  2 root root    4096 Jun 25 17:02 .
+drwxr-xr-x 23 root root    4096 Jun 22 18:51 ..
+-rwxr-xr-x  1 root root 1113504 Apr  4 18:30 bash
+-rwxr-xr-x  1 root root  748968 Apr 17 10:46 brltty
+-rwxr-xr-x  1 root root  716464 Mar 12 23:04 btrfs
+lrwxrwxrwx  1 root root       5 Mar 12 23:04 btrfsck -> btrfs
+-rwxr-xr-x  1 root root  375952 Mar 12 23:04 btrfs-debug-tree
+-rwxr-xr-x  1 root root  371856 Mar 12 23:04 btrfs-find-root
+-rwxr-xr-x  1 root root  396432 Mar 12 23:04 btrfs-image
+-rwxr-xr-x  1 root root  375952 Mar 12 23:04 btrfs-map-logical
+-rwxr-xr-x  1 root root  371856 Mar 12 23:04 btrfs-select-super
+-rwxr-xr-x  1 root root  375952 Mar 12 23:04 btrfstune
+-rwxr-xr-x  1 root root  371856 Mar 12 23:04 btrfs-zero-log
+-rwxr-xr-x  3 root root   34888 Jan 29  2017 bunzip2
+-rwxr-xr-x  1 root root 2022480 Dec 12  2017 busybox
+-rwxr-xr-x  3 root root   34888 Jan 29  2017 bzcat
+lrwxrwxrwx  1 root root       6 Jan 29  2017 bzcmp -> bzdiff
+-rwxr-xr-x  1 root root    2140 Jan 29  2017 bzdiff
+lrwxrwxrwx  1 root root       6 Jan 29  2017 bzegrep -> bzgrep
+-rwxr-xr-x  1 root root    4877 Jan 29  2017 bzexe
+lrwxrwxrwx  1 root root       6 Jan 29  2017 bzfgrep -> bzgrep
+-rwxr-xr-x  1 root root    3642 Jan 29  2017 bzgrep
+-rwxr-xr-x  3 root root   34888 Jan 29  2017 bzip2
+-rwxr-xr-x  1 root root   14328 Jan 29  2017 bzip2recover
+lrwxrwxrwx  1 root root       6 Jan 29  2017 bzless -> bzmore
+-rwxr-xr-x  1 root root    1297 Jan 29  2017 bzmore
+-rwxr-xr-x  1 root root   35064 Jan 18 09:43 cat
+-rwxr-xr-x  1 root root   14328 Apr 21  2017 chacl
+-rwxr-xr-x  1 root root   63672 Jan 18 09:43 chgrp
+-rwxr-xr-x  1 root root   59608 Jan 18 09:43 chmod
+-rwxr-xr-x  1 root root   67768 Jan 18 09:43 chown
+-rwxr-xr-x  1 root root   10312 Jan 22 13:49 chvt
+-rwxr-xr-x  1 root root  141528 Jan 18 09:43 cp
+-rwxr-xr-x  1 root root  157224 Dec  2  2017 cpio
+-rwxr-xr-x  1 root root  121432 Jan 25 07:14 dash
+-rwxr-xr-x  1 root root  100568 Jan 18 09:43 date
+-rwxr-xr-x  1 root root   76000 Jan 18 09:43 dd
+-rwxr-xr-x  1 root root   84776 Jan 18 09:43 df
+-rwxr-xr-x  1 root root  133792 Jan 18 09:43 dir
+-rwxr-xr-x  1 root root   72000 Mar 15 22:47 dmesg
+lrwxrwxrwx  1 root root       8 Jan 31 12:08 dnsdomainname -> hostname
+lrwxrwxrwx  1 root root       8 Jan 31 12:08 domainname -> hostname
+-rwxr-xr-x  1 root root  170520 Jan 22 13:49 dumpkeys
+-rwxr-xr-x  1 root root   35000 Jan 18 09:43 echo
+-rwxr-xr-x  1 root root   51512 Apr 26  2016 ed
+-rwxr-xr-x  1 root root   18424 Apr 21  2017 efibootdump
+-rwxr-xr-x  1 root root   40056 Apr 21  2017 efibootmgr
+-rwxr-xr-x  1 root root      28 Jul 12  2017 egrep
+-rwxr-xr-x  1 root root   30904 Jan 18 09:43 false
+-rwxr-xr-x  1 root root   10312 Jan 22 13:49 fgconsole
+-rwxr-xr-x  1 root root      28 Jul 12  2017 fgrep
+-rwxr-xr-x  1 root root   64784 Mar 15 22:47 findmnt
+-rwxr-xr-x  1 root root    1185 Mar 12 23:04 fsck.btrfs
+-rwxr-xr-x  1 root root   35960 Jun 15  2017 fuser
+-rwsr-xr-x  1 root root   30800 Aug 11  2016 fusermount
+-rwxr-xr-x  1 root root   23160 Apr 21  2017 getfacl
+-rwxr-xr-x  1 root root  219528 Jul 12  2017 grep
+-rwxr-xr-x  2 root root    2301 Apr 28  2017 gunzip
+-rwxr-xr-x  1 root root    5927 Apr 28  2017 gzexe
+-rwxr-xr-x  1 root root  101560 Apr 28  2017 gzip
+-rwxr-xr-x  1 root root  196632 Feb 21 07:08 hciconfig
+-rwxr-xr-x  1 root root   18504 Jan 31 12:08 hostname
+-rwxr-xr-x  1 root root  554104 Feb 26 15:21 ip
+-rwxr-xr-x  1 root root   63576 Apr 20 16:55 journalctl
+-rwxr-xr-x  1 root root   10312 Jan 22 13:49 kbd_mode
+-rwxr-xr-x  1 root root   26704 May 14 12:01 kill
+-rwxr-xr-x  1 root root  149688 Jan 28 15:34 kmod
+-rwxr-xr-x  1 root root  170760 Dec  1  2017 less
+-rwxr-xr-x  1 root root   10256 Dec  1  2017 lessecho
+lrwxrwxrwx  1 root root       8 Dec  1  2017 lessfile -> lesspipe
+-rwxr-xr-x  1 root root   19856 Dec  1  2017 lesskey
+-rwxr-xr-x  1 root root    8564 Dec  1  2017 lesspipe
+-rwxr-xr-x  1 root root   67808 Jan 18 09:43 ln
+-rwxr-xr-x  1 root root  211528 Jan 22 13:49 loadkeys
+-rwxr-xr-x  1 root root   52664 Jan 25 15:09 login
+-rwxr-xr-x  1 root root   51280 Apr 20 16:55 loginctl
+-rwxr-xr-x  1 root root  109232 Nov 30  2017 lowntfs-3g
+-rwxr-xr-x  1 root root  133792 Jan 18 09:43 ls
+-rwxr-xr-x  1 root root   84048 Mar 15 22:47 lsblk
+lrwxrwxrwx  1 root root       4 Jan 28 15:34 lsmod -> kmod
+-rwxr-xr-x  1 root root   80056 Jan 18 09:43 mkdir
+-rwxr-xr-x  1 root root  396464 Mar 12 23:04 mkfs.btrfs
+-rwxr-xr-x  1 root root   67768 Jan 18 09:43 mknod
+-rwxr-xr-x  1 root root   43192 Jan 18 09:43 mktemp
+-rwxr-xr-x  1 root root   38952 Mar 15 22:47 more
+-rwsr-xr-x  1 root root   43088 Mar 15 22:47 mount
+-rwxr-xr-x  1 root root   14408 Mar 15 22:47 mountpoint
+lrwxrwxrwx  1 root root      20 Apr 26 19:08 mt -> /etc/alternatives/mt
+-rwxr-xr-x  1 root root   80512 Dec  2  2017 mt-gnu
+-rwxr-xr-x  1 root root  137440 Jan 18 09:43 mv
+-rwxr-xr-x  1 root root  245872 Mar  6 14:46 nano
+lrwxrwxrwx  1 root root      20 Apr 26 19:08 nc -> /etc/alternatives/nc
+-rwxr-xr-x  1 root root   35312 Dec  3  2017 nc.openbsd
+lrwxrwxrwx  1 root root      24 Apr 26 19:08 netcat -> /etc/alternatives/netcat
+-rwxr-xr-x  1 root root  154192 Jan 10  2017 netstat
+-rwxr-xr-x  1 root root   43080 Apr 20 16:55 networkctl
+lrwxrwxrwx  1 root root       8 Jan 31 12:08 nisdomainname -> hostname
+-rwsr-xr-x  1 root root  146128 Nov 30  2017 ntfs-3g
+-rwxr-xr-x  1 root root   10312 Nov 30  2017 ntfs-3g.probe
+-rwxr-xr-x  1 root root   26728 Nov 30  2017 ntfscat
+-rwxr-xr-x  1 root root   34920 Nov 30  2017 ntfscluster
+-rwxr-xr-x  1 root root   34920 Nov 30  2017 ntfscmp
+-rwxr-xr-x  1 root root   34928 Nov 30  2017 ntfsfallocate
+-rwxr-xr-x  1 root root   43120 Nov 30  2017 ntfsfix
+-rwxr-xr-x  1 root root   55416 Nov 30  2017 ntfsinfo
+-rwxr-xr-x  1 root root   31928 Nov 30  2017 ntfsls
+-rwxr-xr-x  1 root root   30824 Nov 30  2017 ntfsmove
+-rwxr-xr-x  1 root root  116840 Nov 30  2017 ntfsrecover
+-rwxr-xr-x  1 root root   88672 Nov 30  2017 ntfssecaudit
+-rwxr-xr-x  1 root root   38944 Nov 30  2017 ntfstruncate
+-rwxr-xr-x  1 root root   30744 Nov 30  2017 ntfsusermap
+-rwxr-xr-x  1 root root   47752 Nov 30  2017 ntfswipe
+lrwxrwxrwx  1 root root       6 Jan 22 13:49 open -> openvt
+-rwxr-xr-x  1 root root   18872 Jan 22 13:49 openvt
+lrwxrwxrwx  1 root root      14 Nov  1  2017 pidof -> /sbin/killall5
+-rwsr-xr-x  1 root root   64424 Mar  9  2017 ping
+lrwxrwxrwx  1 root root       4 Mar  9  2017 ping4 -> ping
+lrwxrwxrwx  1 root root       4 Mar  9  2017 ping6 -> ping
+-rwxr-xr-x  1 root root   38904 Apr 13 00:07 plymouth
+-rwxr-xr-x  1 root root  133432 May 14 12:01 ps
+-rwxr-xr-x  1 root root   35000 Jan 18 09:43 pwd
+lrwxrwxrwx  1 root root       4 Apr  4 18:30 rbash -> bash
+-rwxr-xr-x  1 root root   43192 Jan 18 09:43 readlink
+-rwxr-xr-x  1 root root      89 Apr 26  2016 red
+-rwxr-xr-x  1 root root   63704 Jan 18 09:43 rm
+-rwxr-xr-x  1 root root   43192 Jan 18 09:43 rmdir
+lrwxrwxrwx  1 root root       4 Mar  6 14:46 rnano -> nano
+-rwxr-xr-x  1 root root   18760 Dec 30 18:15 run-parts
+-rwxr-xr-x  1 root root  109000 Jan 30 02:49 sed
+-rwxr-xr-x  1 root root   35512 Apr 21  2017 setfacl
+-rwxr-xr-x  1 root root   43144 Jan 22 13:49 setfont
+-rwxr-xr-x  1 root root   39288 Apr 19 06:53 setupcon
+lrwxrwxrwx  1 root root       4 Apr 26 19:07 sh -> dash
+lrwxrwxrwx  1 root root       4 Jan 25 07:14 sh.distrib -> dash
+-rwxr-xr-x  1 root root   35000 Jan 18 09:43 sleep
+-rwxr-xr-x  1 root root  139904 Feb 26 15:21 ss
+lrwxrwxrwx  1 root root       7 Dec 12  2017 static-sh -> busybox
+-rwxr-xr-x  1 root root   75992 Jan 18 09:43 stty
+-rwsr-xr-x  1 root root   44664 Jan 25 15:09 su
+-rwxr-xr-x  1 root root   35000 Jan 18 09:43 sync
+-rwxr-xr-x  1 root root  182352 Apr 20 16:55 systemctl
+lrwxrwxrwx  1 root root      20 Apr 20 16:55 systemd -> /lib/systemd/systemd
+-rwxr-xr-x  1 root root   10320 Apr 20 16:55 systemd-ask-password
+-rwxr-xr-x  1 root root   14400 Apr 20 16:55 systemd-escape
+-rwxr-xr-x  1 root root   84328 Apr 20 16:55 systemd-hwdb
+-rwxr-xr-x  1 root root   14416 Apr 20 16:55 systemd-inhibit
+-rwxr-xr-x  1 root root   18496 Apr 20 16:55 systemd-machine-id-setup
+-rwxr-xr-x  1 root root   14408 Apr 20 16:55 systemd-notify
+-rwxr-xr-x  1 root root   43080 Apr 20 16:55 systemd-sysusers
+-rwxr-xr-x  1 root root   63560 Apr 20 16:55 systemd-tmpfiles
+-rwxr-xr-x  1 root root   26696 Apr 20 16:55 systemd-tty-ask-password-agent
+-rwxr-xr-x  1 root root  423384 Jul 21  2017 tar
+-rwxr-xr-x  1 root root   10104 Dec 30 18:15 tempfile
+-rwxr-xr-x  1 root root   88280 Jan 18 09:43 touch
+-rwxr-xr-x  1 root root   30904 Jan 18 09:43 true
+-rwxr-xr-x  1 root root  584072 Apr 20 16:55 udevadm
+-rwxr-xr-x  1 root root   14328 Aug 11  2016 ulockmgr_server
+-rwsr-xr-x  1 root root   26696 Mar 15 22:47 umount
+-rwxr-xr-x  1 root root   35032 Jan 18 09:43 uname
+-rwxr-xr-x  2 root root    2301 Apr 28  2017 uncompress
+-rwxr-xr-x  1 root root    2762 Jan 22 13:49 unicode_start
+-rwxr-xr-x  1 root root  133792 Jan 18 09:43 vdir
+-rwxr-xr-x  1 root root   30800 Mar 15 22:47 wdctl
+-rwxr-xr-x  1 root root     946 Dec 30 18:15 which
+-rwxr-xr-x  1 root root   26632 Jan 12 16:42 whiptail
+lrwxrwxrwx  1 root root       8 Jan 31 12:08 ypdomainname -> hostname
+-rwxr-xr-x  1 root root    1937 Apr 28  2017 zcat
+-rwxr-xr-x  1 root root    1777 Apr 28  2017 zcmp
+-rwxr-xr-x  1 root root    5764 Apr 28  2017 zdiff
+-rwxr-xr-x  1 root root     140 Apr 28  2017 zegrep
+-rwxr-xr-x  1 root root     140 Apr 28  2017 zfgrep
+-rwxr-xr-x  1 root root    2131 Apr 28  2017 zforce
+-rwxr-xr-x  1 root root    5938 Apr 28  2017 zgrep
+-rwxr-xr-x  1 root root    2037 Apr 28  2017 zless
+-rwxr-xr-x  1 root root    1910 Apr 28  2017 zmore
+-rwxr-xr-x  1 root root    5047 Apr 28  2017 znew
